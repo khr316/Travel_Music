@@ -40,9 +40,7 @@
 
 ### 추가 정보
 
-- 이 프로젝트의 자세한 문서와 가이드는 [KHR316_tistory](https://khr316.tistory.com/43)를 참고하세요.
-
-  <br><br>
+- 이 프로젝트의 자세한 문서와 가이드는 아래 블로그를 참고하세요
 
 1. [프로젝트 소개](https://khr316.tistory.com/43)
 2. [회원가입 & 로그인 페이지](https://khr316.tistory.com/44)
