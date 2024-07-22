@@ -1,6 +1,6 @@
 # Travel-Based Music Playlist
 
-![이미](C:/KHR/travel_music_playlist/src/main/resources/static/img/디자인.png)
+![이미지](https://github.com/khr316/Travel_Music/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8.png)
 
 ## 프로젝트 소개
 
