@@ -33,13 +33,11 @@
 <br>
 
 ### 연락처
-
-- 프로젝트 담당자:
-  - [이메일](ulsan20204109@gmail.com)
-  - [깃허브](https://github.com/khr316)
+- 이메일 : [ulsan20204109@gmail.com](ulsan20204109@gmail.com)
+- 깃허브 : [https://github.com/khr316](https://github.com/khr316)
 
 <br>
 
 ### 추가 정보
 
-- 이 프로젝트의 자세한 문서와 가이드는 [티스토리_KHR316](https://khr316.tistory.com/43)를 참고하세요.
+- 이 프로젝트의 자세한 문서와 가이드는 [KHR316_tistory](https://khr316.tistory.com/43)를 참고하세요.
