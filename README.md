@@ -1,7 +1,6 @@
 # Travel-Based Music Playlist
 
-<br>
-<br>
+![이미](C:/KHR/travel_music_playlist/src/main/resources/static/img/디자인.png)
 
 ## 프로젝트 소개
 
