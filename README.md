@@ -44,7 +44,7 @@
 
 1. [프로젝트 소개](https://khr316.tistory.com/entry/여행-기반-음악-플레이리스트-웹-개발?category=1190545)
 2. [회원가입 & 로그인 페이지](https://khr316.tistory.com/entry/회원가입-로그인)
-3. [메인 페이지]()
+3. [여행지 페이지](https://khr316.tistory.com/entry/여행지-등록)
 4. []()
 5. []()
 6. []()
